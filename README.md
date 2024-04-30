@@ -4,7 +4,7 @@ This is a simple web application that allows users to manage users and posts. It
 
 ## Installation
 
-Before running the application, make sure you have Node.js and npm installed on your system.
+Before running the application, make sure you have Node.js and npm installed on your system, Also, Ensure that you have PostgREST installed and configured with your PostgreSQL database.
 
 1. Clone this repository to your local machine:
 
