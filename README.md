@@ -17,8 +17,9 @@ Before running the application, make sure you have Node.js and npm installed on 
     ```
     cd <project-directory>
     ```
+3. Rename .env.sample file to .env
 
-3. Install the dependencies using npm:
+5. Install the dependencies using npm:
 
     ```
     npm install
